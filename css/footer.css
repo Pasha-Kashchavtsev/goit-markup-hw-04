@@ -1,0 +1,15 @@
+.footer {
+  padding: 100px 0;
+  background-color: #2e2f42;
+}
+
+.footer-logo {
+  display: block;
+  color: #f4f4fd;
+  margin-bottom: 16px;
+}
+
+.footer-desc {
+  width: 264px;
+  color: #f4f4fd;
+}
